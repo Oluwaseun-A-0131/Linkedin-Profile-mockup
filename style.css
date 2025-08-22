@@ -97,14 +97,14 @@ a span {
 }
 
 /* Navigation icon backgrounds */
-.home span { background-image: url('/assets/nav-bar/home.svg'); }
-.Mynetwork span { background-image: url('/assets/nav-bar/network.svg'); }
-.jobs span { background-image: url('/assets/nav-bar/jobs.svg'); }
-.Messaging span { background-image: url('/assets/nav-bar/messaging.svg'); }
-.Notifications span { background-image: url('/assets/nav-bar/Notifications.svg'); position: relative; }
-.me span { background-image: url('/assets/nav-bar/pfp.png'); }
-.Forbusiness span { background-image: url('/assets/nav-bar/business.svg');}
-.Premium span { background-image: url('/assets/nav-bar/premium.svg');}
+.home span { background-image: url('assets/nav-bar/home.svg'); }
+.Mynetwork span { background-image: url('assets/nav-bar/network.svg'); }
+.jobs span { background-image: url('assets/nav-bar/jobs.svg'); }
+.Messaging span { background-image: url('assets/nav-bar/messaging.svg'); }
+.Notifications span { background-image: url('assets/nav-bar/Notifications.svg'); position: relative; }
+.me span { background-image: url('assets/nav-bar/pfp.png'); }
+.Forbusiness span { background-image: url('assets/nav-bar/business.svg');}
+.Premium span { background-image: url('assets/nav-bar/premium.svg');}
 
 /* Icon with badge container */
 .icon_container{
